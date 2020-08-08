@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id":"1",
+            "nama":"Heraya",
+            "usertype": "2"
+        },
+        {
+            "id":"2",
+            "nama":"Fitra",
+            "usertype":"1"
+        }
+    ],
+    "usertypes": [
+        {
+            "id":"1",
+            "nama":"user"
+        },
+        {
+            "id":"2",
+            "nama":"admin"
+        }
+    ]
+}
